@@ -10,4 +10,7 @@ public class App
     {
         System.out.println( "liu2" );
     }
+    public void test(){
+        
+    }
 }
