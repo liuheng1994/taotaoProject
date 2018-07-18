@@ -13,4 +13,7 @@ public class App
     public void test(){
         
     }
+    public static void test1(){
+        
+    }
 }
