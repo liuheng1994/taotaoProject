@@ -6,6 +6,8 @@ package org.my.maven;
  */
 public class App 
 {
+    String a;
+    String b;
     public static void main( String[] args )
     {
         System.out.println( "master0" );
