@@ -17,4 +17,7 @@ public class App
     public static void test1(){
 
     }
+    public static void liu7(){
+
+    }
 }
