@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "liu7" );
+        System.out.println( "master" );
     }
     public void test(){
 
