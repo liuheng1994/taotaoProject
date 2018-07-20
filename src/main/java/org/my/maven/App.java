@@ -6,8 +6,6 @@ package org.my.maven;
  */
 public class App 
 {
-    String a;
-    String b;
     String c;
     String d;
     String g;
