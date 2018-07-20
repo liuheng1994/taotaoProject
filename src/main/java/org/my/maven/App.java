@@ -10,8 +10,8 @@ public class App
     String b;
     String c;
     String d;
-    String e;
-    String f;
+    String g;
+    String h;
     public static void main( String[] args )
     {
         System.out.println( "master0" );
