@@ -11,6 +11,11 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Maven01" target="1.5" />
+        <module name="oneproject" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="oneproject" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

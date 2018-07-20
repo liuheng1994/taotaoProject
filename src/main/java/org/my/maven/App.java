@@ -14,6 +14,7 @@ public class App
     {
         System.out.println( "master0" );
         System.out.print("master1");
+        System.out.println( "liu6" );
     }
     public void test(){
 
@@ -23,5 +24,9 @@ public class App
     }
     public static void liu7(){
 
+
+    }
+    public static int main(int a,int b){
+        return a>b?a:b;
     }
 }
