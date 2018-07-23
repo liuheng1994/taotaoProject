@@ -14,6 +14,6 @@ public class App
     {
         System.out.println( "master0" );
         System.out.print("master1");
-        System.out.println( "liu6" );
+        System.out.print("123");
     }
 }
