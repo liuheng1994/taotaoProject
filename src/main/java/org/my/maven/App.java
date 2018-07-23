@@ -6,10 +6,10 @@ package org.my.maven;
  */
 public class App 
 {
+    String a;
+    String b;
     String c;
     String d;
-    String g;
-    String h;
     public static void main( String[] args )
     {
         System.out.println( "master0");
