@@ -12,8 +12,8 @@ public class App
     String h;
     public static void main( String[] args )
     {
-        System.out.println( "master0" );
+        System.out.println( "master0");
         System.out.print("master1");
-        System.out.print("123");
+        System.out.print("222");
     }
 }
